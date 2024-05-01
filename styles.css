@@ -6,4 +6,17 @@
     padding: 20px;
     margin: 20px;
     border: 10px solid rgb(7, 6, 6);
+    border-radius: 55%;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 50px;
+}
+
+input {
+    color: blueviolet;
+    border-radius: 50px;
+    background-color: rgb(246, 246, 249);
 }
