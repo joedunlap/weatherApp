@@ -1,0 +1,9 @@
+
+.container {
+    background-color: aqua;
+    color:blue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid rgb(7, 6, 6);
+}
